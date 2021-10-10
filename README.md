@@ -1,4 +1,4 @@
-# array_rotation
+# Array Rotation
 
 Simple python application to rotate the numbers 
 

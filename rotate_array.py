@@ -9,7 +9,7 @@ def reverse23(digits, num_rotate):
   return new_output
 
 
-n = [3, 8, 9, 7, 6]
+n = [3, 8, 9, 7, 6, 10, 4]
 cycles = 7
 output = reverse23(n, cycles)
 print(n)
